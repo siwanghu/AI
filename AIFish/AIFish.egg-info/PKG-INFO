@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: AIFish
+Version: 0.1
+Summary: python library for ketianyun
+Home-page: UNKNOWN
+Author: siwang.hu
+Author-email: siwang.hu@ketianyun.com
+License: MIT Licence
+Description: nlp library for AIServer
+Platform: any
